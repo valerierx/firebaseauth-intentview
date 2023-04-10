@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=main.py %u
+Icon=android-sdk
+StartupNotify=true
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+MimeType=x-scheme-handler/intent
+Name=Android Intent
+Comment=Display intent:// intents
