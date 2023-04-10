@@ -2,6 +2,10 @@
 
 REQUIREMENTS: pyclip and Tkinter
 
+### Manual usage
+
+Run `main.py '<intent:// url>'` and copy the parsed recaptchaToken.
+
 ### Linux setup
 
 Run `sudo make install` or `PREFIX=~/.local make install` if .local/bin is in global $PATH
