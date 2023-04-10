@@ -1,4 +1,4 @@
-# Firebase reCAPTCHA intent handler
+# Firebase reCAPTCHA intent handler/parser
 
 REQUIREMENTS: pyclip and Tkinter
 
