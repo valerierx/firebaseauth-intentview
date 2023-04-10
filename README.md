@@ -1,5 +1,7 @@
 # Firebase reCAPTCHA intent handler
 
+REQUIREMENTS: pyclip and Tkinter
+
 ### Linux setup
 
 Run `sudo make install` or `PREFIX=.local make install` if .local/bin is in global $PATH
