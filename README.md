@@ -4,7 +4,7 @@ REQUIREMENTS: pyclip and Tkinter
 
 ### Linux setup
 
-Run `sudo make install` or `PREFIX=.local make install` if .local/bin is in global $PATH
+Run `sudo make install` or `PREFIX=~/.local make install` if .local/bin is in global $PATH
 
 And `xdg-mime default Intent.desktop x-scheme-handler/intent`
 
